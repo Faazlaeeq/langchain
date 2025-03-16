@@ -1,0 +1,278 @@
+INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS
+ISSN(print): 2643-9840, ISSN(online): 2643-9875
+Volume 05 Issue 12 December 2022
+DOI: 10.47191/ijmra/v5-i12-42, Impact Factor: 6.261
+Page No. 3616-3622
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3616
+Digital Transformation in Islamic Banking
+Harjoni Desky1
+, Isra Maulina2
+1,2Lecturer at IAIN Lhokseumawe
+ABSTRACT: The purpose of this study is to examine digital transformation in Islamic banks. Data were obtained through a survey
+questionnaire from three Commercial Sharia Banks in Aceh: BSI, BCA Syariah, and Bank Aceh. A descriptive analysis was carried
+out to examine. First, the reasons for these Islamic banks using digitization are related to the technology used as well as the status
+and position in the use of digitization; second, reviewing regulations, challenges, prudential risks, and the stability implications of
+digitizing Islamic banking. This study found that in most Islamic Banks, in this case, Bank Syariah Indonesia (BSI), BCA Syariah, and
+Bank Aceh, the digitalization process is still ongoing but has gained greater traction since the COVID-19 pandemic. The main
+reasons for the main impetus in carrying out digital transformation include strengthening competitiveness, increasing operational
+efficiency, and increasing customer satisfaction. Technologies adopted include mobile and digital wallets, biometric
+authentication, and artificial programming interfaces. Nevertheless, the push for digital transformation has been hampered by
+the limitations of digital infrastructure in Islamic banking's lack of human resources and architecture. This research discovers the
+benefits and risks of the implications of digitalization for the stability of the Islamic banking industry in Indonesia and provides
+valuable recommendations for the progress of Islamic banking in particular in Aceh and Indonesia in general.
+KEYWORDS: Islamic Banking; Stability; Digital Transformation
+A. BACKGROUND
+Adopting innovative technologies and business models is a prominent emerging trend that is fast changing the ecosystem of the
+Islamic Financial Services Industry (IFSI), and Islamic banks (IBs) are not immune to these developments. Before the outbreak of
+the COVID-19 pandemic, digitalization in the Islamic banking industry had been building momentum and increasingly transforming
+the financial products and services rendered. As many countries were entering the recovery phase of the first pandemic wave, a
+second wave was recorded and subsequently compounded by discovering a new and more infectious mutation of the SARS-CoV2 virus.
+The consequential reintroduction of movement restrictions and physical distancing as measures to flatten the curve of
+the spread of COVID-19 has also added speed to the need for digital transformation in rendering financial services. Digital
+transformation is crucial to sustaining the growth momentum of the Islamic banking industry (IFSB's Islamic Financial Services
+Industry (IFSI) Stability Report 2020) by broadening its current outreach, exploring new horizons, identifying untapped potentials,
+and unlocking opportunities, especially in financially developed markets but with minimal or no presence of Islamic banking.
+(https://www.salaamgateway.com)
+A radical departure is required from the traditional sales and product-inclined Islamic banking model to a collaborative
+or competition-induced innovative model of Islamic banking and financial service delivery. Such a model should align with the high
+expectations of today's tech-savvy and convenience-driven customers (https://www.pwc.com/my/en/assets/workshops/2019),
+whose digital banking behavior has also been evolving in parallel. Digitalising Islamic banking will bring about a myriad of
+opportunities for the growth of the industry. For instance, it will help IBs respond to changing customer structure and expectations
+and to the consequential disintermediation due to competition from new entrant non-bank Islamic financial services providers.
+Richer insights will be put into business decision-making due to the availability and processing of more granular data about
+customers' preferences and dispositions.
+Digitalising Islamic banking will also enhance access to financing by micro, small and medium enterprises (MSMEs)
+(https://www.worldbank.org/en/topic/smefinance) and support value-based intermediation
+(https://www.bnm.gov.my/index.php?ch=en) among offering many other benefits. Digitalization will enhance IBs'
+compliance with regulatory requirements and risk management capabilities. Moreover, supervisory activities and capabilities of
+the regulatory and supervisory authorities (RSAs) would be enhanced due to the resultant operational efficiency and effectiveness
+Digital Transformation in Islamic Banking
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3617
+brought about by the automation of supervisory processes and improved real-time data capture and use. RSAs have also
+strengthened their consumer protection role by leveraging technology to augment their consumer complaints management
+system through, for instance, a chatbot application for complaints handling
+(https://static1.squarespace.com/static/583ddaade4fcb5082fec58f4/t/5c62711941920237ef03d090/1549955392920/R
+2A+Chatb ot+Case+Study.pdf).
+Digitalisation also promotes financial inclusion in line with the agenda of development finance institutions, regulators,
+standard setters, and other institutional stakeholders in the financial services industry.
+ (https://www.youtube.com/watch?v=JTSb61PGrpM&feature=youtu.be). In this regard, the positive implication of digital
+Islamic banking for financial inclusion is also noteworthy and in line with the global trend, as highlighted by the IFSB.
+(https://www.ifsb.org/download.php?id=5519&lang=English&pg=/published.php). This is due to the structural composition and
+dynamics of the traditional and potential customer base of the IBs. The median age of Muslims worldwide is 24 years compared
+to 32 years globally. Fifteen among the top 59 countries with smartphone penetration are Organisation of Islamic Cooperation
+(OIC) member countries. Compared to 49% worldwide, 72% of the unbanked population resides in OIC countries.
+(https://www.dinarstandard.com/wpcontent/uploads/2018/12/Islamic-Fintech-Report-2018.pdf).
+Notwithstanding its numerous benefits, digitalization may also create exposure to potential risks that have implications
+for the financial stability and integrity of the Islamic banking industry. (FSP, 2019). Such may derive from how the incumbent IBs
+respond to the challenges arising from market structure dynamics, risks, and challenges involved in transforming to digital Islamic
+banking. Digitalization may also expose IBs to cyber-security risks, data quality issues, money laundering and financing terrorism
+(ML/FT) risks, and cloud concentration risks. Consumers and investors may also be exposed to protection issues. Sharīʿah noncompliance risks could also result from the special intricacies of the Islamic banking products and processes in the event of noncompliance with the essentials and sequence of automated Sharīʿah requirements due to programming error or system
+malfunctioning.
+The regulatory implications of digitalization would depend on Banks' response to finding a balance between encouraging
+technology-based financial innovation while protecting consumers (OECD, 2018), supporting business operations, and promoting
+financial inclusion. This should be done without infringing on the fundamental premise of Sharīʿah
+(https://ceif.iba.edu.pk/pdf/IslamicFinTechReport19.pd) upon which Islamic banking is built. In this regard, Banks have
+also been issuing guiding frameworks and regulations, promoting regulatory sandboxes, and establishing digital banking
+institutions, including Islamic banks.
+This paper investigates the digital transformation process in the Islamic banking industry. The scope of the paper covers
+only the three Commercial Sharia Banks in Aceh: BSI, BCA Syariah, and Bank Aceh. Given the exploratory nature of the research,
+except to enhance the explanation, no inferences are drawn, and no preferences are indicated for any of the numerous
+technology-driven financial innovations mentioned in the paper. Rather, a general overview is provided of the situation and the
+pertinent prudential issues.
+B. CURRENT STATUS OF AND RATIONALE FOR DIGITALIZATION OF ISLAMIC BANKS IN ACEH
+1. Bank Syariah's Perceptions of Digitalisation
+The first survey question asked the respondent IBs about what they perceive digital Islamic banking to be in the context of their
+operations. The responses provided generally fits into the definition of digital financial services (DFS) provided by the Organisation
+for Economic Cooperation and Development (OECD, 2018), which states that:
+DFS involves financial operations using digital technology, including electronic money, mobile financial services, online financial
+services, i-teller, and branchless banking, whether through a bank or non-bank institution. DFS encompasses various monetary
+transactions such as depositing, withdrawing, sending, and receiving money and other financial services, including payment,
+credit, pensions, and insurance. DFS can also include non-transactional services such as viewing personal financial information
+through digital devices.
+BSI of the respondents views digitalization of their operations from the perspective of what Islamic banking products and
+services they offer. BCA Syariah extends such views to include the various channels or platforms through which such services are
+offered to customers. And Bank Aceh Syariah also view the digitalization of its Islamic banking activities as enhancements to their
+operational efficiency, data security, regulatory compliance, and the customer experience in its entire ramification via technology.
+A noteworthy response offered by some IBs is that such digital operation is performed based on the permissibility offered by
+their operating license. As such, a digital Islamic bank is that which the relevant RSA duly licenses to provide all traditional
+banking and intermediation services while leveraging the latest technological advancements to improve its banking model. This
+could be either a fully digital retail bank, marketplace bank, or offering Banking-as-a-Service. (Jenik, Flaming, and Salman, 2020).
+Digital Transformation in Islamic Banking
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3618
+Such a digital Islamic bank is, therefore, different from an Islamic neobank which, though it may offer Islamic financial services
+via technology, is not licensed to perform financial intermediation services. Perhaps, neobanks, in their bid to avoid regulation
+and compliance costs, would not opt to become licensed digital banks, so they would not be able to venture into activities like
+accepting deposits.
+2. Rationales for Islamic Banking Digitalisation
+The next question in the survey sought the responding IBs' (BSI, BCA Syariah, and Bank Aceh) rationale for embarking or
+proposing to embark on digital transformation. Across jurisdictions, customer satisfaction is considered a key rationale for digital
+transformation in Islamic banking. Specifically, other key rationales are moderated by the systemic significance of the domestic
+Islamic banking sector and structural and geographical factors. Competition and contestability are considered very pertinent
+among IBs in jurisdictions that have attained systemic importance.
+IBs from some of these jurisdictions consider compliance with regulatory requirements as a key rationale for their digital
+transformation activities. Whereas, in jurisdictions with a very marginal share of domestic Islamic banking assets and a large
+population, market penetration and cost reduction are considered the prime rationale for most IBs' digital transformation. The
+COVID-19 outbreak has also impeded the digitalization process among IBs from these latter jurisdictions. Most IBs from Aceh
+consider improvement in data security as key. Based on the literature review, 12 possible reasons IBs should engage in digital
+transformation were listed in the survey questionnaire. 1 Participants' responses indicated that all the reasons stated are
+considered pertinent. A weighted mean analysis is conducted to determine the relative importance of each of these reasons. And
+the outcome is depicted in Figure 1.
+Figure 1. Reasons Why BSI, BCA Syariah, and Bank Aceh Engage in Digital Transformation
+ Source: Data Survey, 2022
+Specifically, with a weighted mean score of 1.9, the IBs generally consider countering disruption by new entrants and competition
+from another incumbent IBs as the relatively most pertinent justification for embarking on digital transformation. Both
+competition and competitors are changing, and IBs must respond accordingly. Competitive differentiation and contestability of
+the IBs will largely depend on to what extent they can digitalize their workplaces. This is crucial to enhance operational efficiency
+through the optimal combination of both front-office and back-office technology and to attract the right talents with the specific
+requisite human capital.
+Competition and contestability are envisaged to increase further as new players come on board and regulators respond to finding
+a balance between encouraging innovation, protecting consumers (See OECD, 2018), and ensuring financial stability (X. Vives,
+1
+ The data from the questionnaire in relation to this and similar questions were generated on a scale of 1 to 5. In isolation and at varying
+percentages, responses to all 12 items were indicated as either “Strongly Agree” or “Agree”, except in a few instances when the “Neutral” option
+was indicated. Explaining each item would require many tables to indicate what percentage is “Strongly Agree = 5”, “Agree = 4”, “Neutral = 3”,
+“Disagree = 2”, or “Strongly Agree = 1”. However, the interpretation reflected in Figure 2.1 is based on weighted scores. The figures are absolute
+and are interpreted based on their degree. Each item is given an equal weight of 1, then multiplied by responses obtained from each IB
+respondent
+Digital Transformation in Islamic Banking
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3619
+2019). The responses obtained, therefore, seems more of a pre-emptive justification than a contingent reaction to the threat from
+both FinTechs and BigTechs
+ (http://cibafi.urbansoft.co.uk/Files/L1/Content/CI1809-CI1809- GlobalIslamicBankersSurvey2019Report.pdf). This is
+because, at the moment, both large and small IBs consider competition from the new entrants' novel and technology-enabled
+business model as moderate at most. As shown in Figure 2, only 32%27 of the respondent IBs, "strongly agree" that competition
+from new entrants, when considered in isolation, is a reason for their digitalization process. These IBs are mainly from nine
+systemically important and one non-systemically important Islamic banking jurisdiction.
+Figure 2. The proportion of IBs that "Strongly Agree." with Reasons for Digitalisation
+ Source: Data Survei, 2022
+Customer satisfaction is a very important rationale for IBs' engagement in digital transformation in today's customer-centric
+financial market. Customer satisfaction as an important reason for digitalization recorded a weighted mean score of 1.24, as shown
+in Figure 1, with 77% of the respondent IBs29 also indicating that they "strongly agree" with this view considered in isolation in
+Figure 2. Customers want improved services at a lower cost and more convenience in their banking experiences. The future
+outlook of the financial system revolves around the repository and availability of and access to accurate yet comprehensive
+digitalized data about a customer. Such data are expected to be processed in real time based on algorithms to determine
+customers' creditworthiness, insurance, or investment preferences.
+Simplification of banking processes and added convenience via technology have resulted in customer satisfaction, which
+has positive implications for banks' economic bottom lines. Changing customer demand, particularly from the increasing number
+of millennials who have grown up in a digitally connected world and do not have the same loyalty to banks as older generations,
+is adduced as one of the factors driving the prominence of digitalization. While some consumers, particularly corporates, remain
+loyal to banks, changing retail consumer expectations pressure banks to adopt various forms of technology to improve their
+services. This has brought about value, given that customers now have more access to hitherto restricted assets, more control of
+their choices, and more visibility in product development.
+3. COVID-19 and digital transformation in BSI, BCA Syariah, Bank Acehs.'
+The need to ensure physical distancing due to COVID-19 recorded a weighted-mean score of 1.24, as shown in Figure 1. Arguably,
+the outbreak of COVID-19 and the consequential need for physical distancing and efficient disbursement of funds to the needy
+have amplified the indispensability of the digitalization of banking services. Figure 2. indicates that 69% of the respondents at BSI,
+BCA Syariah, and Bank Aceh in Aceh "strongly agree" that the pandemic is an important reason for their digitalization process.
+Although cutting across all jurisdictions, most of the responses were from IBs from Aceh.
+As a strategy to reduce the infection rate, contactless digital payments between persons and purchases in stores have
+been greatly encouraged since the pandemic outbreak. Incentives to use digital payments have also been provided in some
+instances, especially in developing countries.36 The increased experience with online banking due to the restrictions on
+movement, especially since the first wave of the pandemic, does not favor the physical service delivery that bank branches are
+meant to provide.
+Digital Transformation in Islamic Banking
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3620
+C. Technology and Prudential Risks In BSI, BCA Syariah, Bank Acehs' Digitalisation
+Technological adoption has not only opened the way to new possibilities and enhanced the operational efficiency of IBs (BSI, BCA
+Syariah, and Bank Aceh) but has also created potential risks. Responses obtained from the IBs that participated in the survey
+indicate that risks relating to cyber security, technology, third-party/outsourcing, and data integrity are of concern. The
+distribution of responses provided by the IBs is shown in Figure 3.
+Figure 3. Digital Transformation Risks Facing BSI, BCA Syariah, Bank Acehs
+Source: Data Survey, 2022
+Cyber-security risk seems to be the main prudential risk facing the IBs in their digital operation, especially those from Bahrain,
+Brunei, Egypt, Kuwait, Qatar, Saudi Arabia, and UAE. This risk is indicated by 76% of the IBs. The swift changes in technological
+advancement make the legacy infrastructure of many IBs highly susceptible to cyber risk. The CIBAFI Islamic Global Bankers' Survey
+in 2019 ranked cyber risk as the number one risk facing IBs.
+This may not necessarily be an issue peculiar to IBs, as conventional banks are also faced with the issue of cyber security.
+As such, the potential for a cyber-attack on any financial institution is more a matter of when than if. It is projected that the cost
+of global cybercrime will reach USD 6 trillion by 2021. The effects of such attacks on perceptions about data integrity – indicated
+by 52% of the responding IBs – may also significantly interrupt business operations and have implications for public confidence in
+the technology.
+High susceptibility to cyber-security risk may also create reputational risk for an IB's digital operation, as highlighted by
+41% of the respondents. Given the implications of cyber-risk occurrence for financial stability, the focus of IBs should transcend
+cyber-risk prevention. Such a focus should also cover response, recovery, and adaptation, given that cyber risks are difficult to
+pre-empt yet evolve and transform swiftly with no trace of perpetrators. The FSB already notes the financial stability implications
+of such, especially in the event of a cyber-attack or an operational failure of cloud services. In a case where quite a several IBs rely
+on a few dominant cloud service suppliers, this could pose a systemic risk triggered by "cloud concentration" risk due to the
+operational centrality of computing services. This risk is also indicated by 39% of the respondent IBs. Such failures' effects on data
+integrity perceptions could also have implications for public confidence in the technology, thus creating reputational risk.
+Other related prudential risks are legal and data security risks, which are indicated by 42% and 50% of the IBs,
+respectively. The former could arise due to the fragmented payment market, where many innovative products and services make
+governance, management, and control rather complex. For instance, in biometric authentication technology, a false acceptance
+or rejection could arise, depending on the unique biometric feature used. This could have implications for users' experience, thus
+leading to legal or reputational risks for an IB.
+Although 59% of the respondent IBs strongly agree that technology risks have prudential implications for the digitalization
+of their banking operations, only 29% indicate that technical debt is a concern. The former risk occurs when either unsuitable or
+outdated technology is deployed for the bank's daily operations, such as the reconciliation of books of accounts. The latter occurs
+where additional avoidable costs would have to be incurred later by adopting and investing in a cheaper technology now as a
+Digital Transformation in Islamic Banking
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3621
+short-term fix at the expense of a more expensive, efficient, and effective alternative. As indicated in Figure 3.3, almost half (48%)
+of the respondent IBs indicate they strongly agree that money laundering (ML) and financing terrorism (FT) risks might have
+prudential implications arising from digitalizing their operations. This concern is not peculiar to IBs, given that the perpetration of
+such crimes is driven more by opportunity and convenience than by an institution or transaction following Islamic banking.
+Nonetheless, the proliferation of innovative financial products and processes due to financial technology should not make
+IBs more susceptible to ML/FT activities so that money launderers might use the sophisticated methods financial institutions
+employ to launder illicit funds. From a prudential risk perspective, Sharīʿah non-compliance risk could crystallize from using mobile
+wallets, for instance. This could also potentially impact the risk profile of an IB, as indicated by 29% of the survey respondents.
+Such a risk could result from concerns that border on the non-specificity of the contracts upon which such mobile wallets are
+offered and the modus operandi.
+Furthermore, the reduced costs and efforts required by customers for shopping around and switching banks due to
+technology may erode IBs' brand advantage and make customers less sticky. This will also have implications for the stickiness of
+deposits and investment accounts as cheap and stable sources of funding for IBs. This is because customers can easily and
+frequently optimize their surplus balances by moving funds from a lowly-remunerated transaction account to a more productive
+and higher rate of return-paying accounts or investments.
+D. CONCLUSION
+The adoption of innovative technologies and business models is a prominent emerging trend that is fast-changing the ecosystem
+of the IFSI, and Islamic banks are not immune to these developments. Emerging technology is expected to revolutionize the
+financial sector further and enhance financial inclusion, accessibility, convenience, and efficiency. Both competitors and
+competition are changing, and the IBs need to respond accordingly through technology. A plethora informs the rationale for IBs'
+digital transformation drive of reasons mainly to enhance their competitiveness and contestability in the IFSI via operational
+efficiency and modernization of their business model. This is in response to the disruption of financial services rendered by new
+entrant Fintech start-ups and competition from incumbent IBs. This would entail that the IBs leverage technology to increase
+customer value and satisfaction, reduce operational costs, enhance revenue generation, strengthen core competencies, and
+improve data security, among other considerations. However, this should be done without infringing on the fundamentals of the
+Sharīʿah.
+The COVID-19 outbreak and the consequential movement restrictions and physical distancing as measures to flatten the
+curve of its spread have added to the need for digitalizing financial services, including those offered by the IBs. For instance, most
+IBs have also adopted the work-from-home policy, which requires remote access and strengthening of the security of their
+technology network. More than two-thirds of the IBs are at various stages of their digital transformation process. While the specific
+status of their implementation varies, it is promising to know that they have commenced. However, most of the IBs in this category
+also expended less than 50% of their most recent budget on IT-related activities. Those few IBs that commenced their digital
+transformation process before the outbreak of COVID-19 are expected to find it relatively easier than those that would have to
+react due to the inevitability of such transformation as a crucial post-COVID-19 economic recovery reality.
+REFERENCES
+1) Aaron, M., Rivadeneyra, F., & Sohal, S. (2017). Fintech: Is This Time Different? A Framework for Assessing Risks and
+Opportunities for Central Banks. Bank of Canada Staff Discussion Paper, 10, 1–32. www.bank‐Banque‐canada.ca
+2) Antara, P. M., Musa, R., & Hassan, F. (2016). Bridging Islamic financial literacy and halal literacy: the way forward in halal
+ecosystem. Procedia Economics and Finance, 37, 196–202.
+3) Apanasevic, T., Markendahl, J., & Arvidsson, N. (2016). Stakeholders' expectations of mobile payment in retail: Lessons
+from Sweden. International Journal of Bank Marketing, 34(1), 37–61.
+4) Asmy, M., Mohd, B. Thaker, T., Bin, A., Pitchay, A., Bin, H., & Thas, M. (2019). Factors influencing consumers' adoption
+of Islamic mobile banking services in Malaysia. JIMA.
+5) Asmy, M., Mohd, B., Thaker, T., Amin, F. B., Bin, H., Thas, M., Bin, A., & Pitchay, A. (2018). What keeps Islamic mobile
+banking customers loyal? Journal of Islamic Marketing.
+6) Bashir, M. S. n. (2015). Analysis of Customer Satisfaction with the Islamic Banking Sector:Case of Brunei Darussalam.
+Asian Journal of Business and Management SciencesISSN, 2(10), 38–50.
+7) Bawden, D. (2001). Information and digital literacies: a review of concepts. Journal of Documentation. Beetham, H.,
+Littlejohn, A., & Milligan, C. (2012). Digital literacies for the research institution.
+Digital Transformation in Islamic Banking
+IJMRA, Volume 05 Issue 12 December 2022 www.ijmra.in Page 3622
+8) In R. Andrews, S. B. D. E.Borg, M. Domingo, & J. England (Eds.), The SAGE handbook of digital dissertations and theses
+(pp. 63–80). SAGE Publications. https://doi.org/10.4135/9781446201039.n5.
+9) Belshaw, D. (2011). What is digital literacy? A Pragmatic investigation, EdD 155 Thesis. Durham: University of Durham,
+274.
+10) Boonsiritomachai, W., & Pitchayadejanant, K. (2019). Determinants affecting mobile banking adoption by generation Y
+based on the unified theory of acceptance and use of technology model modified by the technology acceptance model
+concept.
+11) Kasetsart Journal of Social Sciences, 40(2), 349– 358. https://doi.org/10.1016/j.kjss.2017.10.005
+12) Bundesbank, D. (2016). Die Studie zur wirtschaftlichen Lage privater Haushalte (PHF. Capuano, A., & Ramsay, I. (2011).
+What causes suboptimal financial behaviour?
+13) An exploration of financial literacy, social influences and behavioural economics. An Exploration of Financial Literacy,
+Social Influences and Behavioural Economics, 540.
+14) Chen, L. (2016). From fintech to finlife: the case of fintech development in China. China Economic Journal, 9(3), 225–
+239.
+There is an Open Access article, distributed under the term of the Creative Commons
+Attribution – Non Commercial 4.0 International (CC BY-NC 4.0)
+(https://creativecommons.org/licenses/by-nc/4.0/), which permits remixing, adapting and
+building upon the work for non-commercial use, provided the original work is properly cited. 
